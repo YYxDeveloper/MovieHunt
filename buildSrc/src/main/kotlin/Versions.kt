@@ -1,5 +1,5 @@
 object Versions {
-    const val kotlin = "1.5.31"
+    const val kotlin = "1.7.20"
     const val androidGradle = "7.0.2"
     const val material = "1.4.0"
 
@@ -32,8 +32,8 @@ object Versions {
     }
 
     object AndroidX {
-        const val appCompat = "1.3.1"
-        const val core = "1.3.0"
+        const val appCompat = "1.4.1"
+        const val core = "1.4.0"
         const val constraintLayout = "2.1.0"
         const val swipeRefreshLayout = "1.1.0"
     }
@@ -46,7 +46,7 @@ object Versions {
 
     object ArchitectureComponents {
         const val paging = "3.1.0"
-        const val room = "2.3.0"
+        const val room = "2.4.0"
     }
 
     object JetpackCompose {
