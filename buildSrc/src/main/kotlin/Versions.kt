@@ -46,7 +46,7 @@ object Versions {
 
     object ArchitectureComponents {
         const val paging = "3.1.0"
-        const val room = "2.3.0"
+        const val room = "2.4.0"
     }
 
     object JetpackCompose {
